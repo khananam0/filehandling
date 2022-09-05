@@ -1,0 +1,29 @@
+Physical World
+Units And Measurements
+Motion In A Straight Line
+Motion In A Plane
+Laws Of Motion
+Work Energy And Power
+System Of Particles And Rotational Motion
+Gravitation
+Mechanical Properties Of Solids
+Mechanical Properties Of Fluids
+Thermal Properties Of Matter
+Thermodynamics
+Kinetic Theory
+Oscillations
+Waves
+Electric Charges And Fields
+Electrostatic Potential And Capacitance
+Current Electricity
+Moving Charges And Magnetism
+Magnetism And Matter
+Electromagnetic Induction
+Alternating Current
+Electromagnetic Waves
+Ray Optics And Optical Instruments
+Wave Optics
+Dual Nature Of Radiation And Matter
+Atoms
+Nuclei
+Semiconductor 
